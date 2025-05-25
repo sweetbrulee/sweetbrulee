@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sweetbrulee
 - 👀 I’m interested in video games, musics and programming
-- 🌱 I’m currently learning CS courses
 - 📫 How to reach me: <sparrowking002@gmail.com>
 
 <!---
